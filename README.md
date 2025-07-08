@@ -67,7 +67,7 @@ python main.py
 Wait for messages. When a mesh node sends a message starting with **@ai**, e.g.:
 
 ```bash
-@ai Hello how are you?
+@ai Hello how are you LLM?
 ```
 
 The script will query Ollama and directly reply back to the sender node with the AI's answer.
