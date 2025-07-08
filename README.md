@@ -6,8 +6,8 @@ This Python script acts as a seamless bridge between a Meshtastic LoRa mesh netw
 
 Designed for simplicity and reliability, this tool enables users to interact with powerful AI models even in remote or offline mesh network environments where traditional internet access is unavailable. It's ideal for adding intelligent, conversational capabilities to decentralized, low-bandwidth communication setups.
 
-<img src="/img/img1.jpg" alt="Meshtastic to Ollama LLM Chat Bridge Image 1" width="500px">
-<img src="/img/img2.jpg" alt="Meshtastic to Ollama LLM Chat Bridge Image 2" width="500px">
+<img src="/img/img1.png" alt="Meshtastic to Ollama LLM Chat Bridge Image 1" width="500px">
+<img src="/img/img2.jpeg" alt="Meshtastic to Ollama LLM Chat Bridge Image 2" width="500px">
 
 
 ## Features
