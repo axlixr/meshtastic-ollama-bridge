@@ -52,7 +52,7 @@ See [Ollama](https://github.com/ollama/ollama/blob/main/README.md) on how to dow
 **Ensure your Meshtastic device is connected via USB.**
 
 ```bash
-git clone https://github.com/luckypines/meshtastic-ollama-bridge.git
+git clone https://github.com/axlixr/meshtastic-ollama-bridge.git
 cd meshtastic-ollama-bridge
 ```
 
@@ -76,7 +76,7 @@ The script will query Ollama and directly reply back to the sender node with the
 
 GNU General Public License v3.0
 
-Created by **Wasted Alien.**
+Created by **Axl.**
 
 **Disclaimer:** This is an unofficial project and is not affiliated with or endorsed by the Meshtastic team.
 
